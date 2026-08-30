@@ -1,0 +1,2 @@
+"""Utilitários compartilhados da aplicação."""
+
